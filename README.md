@@ -380,7 +380,7 @@ if __name__ == "__main__":
 
 #### excel结果内容示例
 
-![](https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/09/17/2020-09-17-Spider-Qimai-Rank/2020-09-16-qimai_sample_result_excel.png)
+https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/09/17/2020-09-17-Spider-Qimai-Rank/2020-09-16-qimai_sample_result_excel.png
 
 
 ### 说明
