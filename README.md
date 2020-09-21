@@ -363,11 +363,11 @@ if __name__ == "__main__":
 
 #### 日志:
 
-![](https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/09/17/2020-09-17-Spider-Qimai-Rank/2020-09-16-qimai_full_log.png)
+![qimai_full_log](https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/09/17/2020-09-17-Spider-Qimai-Rank/2020-09-16-qimai_full_log.png)
 
 #### 结果文件
 
-![](https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/09/17/2020-09-17-Spider-Qimai-Rank/2020-09-16-qimai_sample_result_file.png)
+![qimai_sample_result_file](https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/09/17/2020-09-17-Spider-Qimai-Rank/2020-09-16-qimai_sample_result_file.png)
 
 #### txt结果内容示例
 
@@ -380,7 +380,7 @@ if __name__ == "__main__":
 
 #### excel结果内容示例
 
-https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/09/17/2020-09-17-Spider-Qimai-Rank/2020-09-16-qimai_sample_result_excel.png
+![qimai_sample_result_excel](https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/09/17/2020-09-17-Spider-Qimai-Rank/2020-09-16-qimai_sample_result_excel.png)
 
 
 ### 说明
@@ -398,6 +398,8 @@ https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/09/17/2020
 
 
 3. 经常会下载是获取不到信息，多等一段时间即可。同时发现，没有获取到正确的analysis亦可爬取到结果
+
+[View Blog](https://zhenzhang20.github.io/2020/09/17/2020-09-17-Spider-Qimai-Rank/)
 
 [Fork/Star on Github](https://github.com/zhenzhang20/Qimai_Rank)
 
